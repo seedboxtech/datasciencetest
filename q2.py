@@ -42,6 +42,8 @@ def compare_prob (cal_rebill,cal_user,form_rebill,from_user) :
 
 compare_prob(no_callin_rebill,no_callin_user,no_webform_rebill,no_webform_user) 
                  
+    
+    #Yes Call-in user are more likely to create an additional rebill
 
           
 
