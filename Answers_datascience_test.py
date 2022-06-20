@@ -22,6 +22,8 @@ def approx_prob(testgroup, controlgroup, totaloutcome) :
     print(prob_control_group)
 
 approx_prob(test_group,control_group,total_outcome)
+#members in control Group: 44886 (75%) 
+#members in test Group: 14835 (25%) 
     
     
     
